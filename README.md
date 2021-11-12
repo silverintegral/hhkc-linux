@@ -1,2 +1,2 @@
-# Happy Hacking KeyCode for Windows
+# Happy Hacking KeyCode for Linux
 HHKB用ユーティリティ

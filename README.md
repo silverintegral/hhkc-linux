@@ -1,2 +1,2 @@
-# hhkc-linux
-Happy Hacking KeyCode for Linux
+# Happy Hacking KeyCode for Windows
+HHKB用ユーティリティ
